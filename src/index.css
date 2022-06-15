@@ -1,3 +1,7 @@
+body{
+    background-color: whitesmoke
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
