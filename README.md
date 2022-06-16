@@ -1,14 +1,15 @@
 # weather-app
 
-<p align="center">
-    <img windth="470" src="src/assets/to_readme/apliccation_gif.gif"
+<p align="center">  
+  <img windth="470" src="src/assets/to_readme/apliccation_gif.gif"
 </p>
 
 Application of weather, which you can search the weather of your city.
+
 This apliccation is inspirated in a tutorial video of youtube.
+
 Link for video: https://www.youtube.com/watch?v=O6fYg3-Kgx0&t=2s
 
-[Picture of apliccation](https://photos.app.goo.gl/mS2YoUw6mg17P7tQA)
+I do choose deployment in ***Heroku***, because the github pages don't accept dynamic pages or directory without archive ***"index.html"***
 
-I do choose deployment in ***Heroku***, because the github pages dont accepted dinamic pages or directory without archive ***"index.html"***
-**Link for application : [Weather App](https://weather-app-lyzzandro.herokuapp.com/)**
+## **Link for application : [Weather App](https://weather-app-lyzzandro.herokuapp.com/)**
